@@ -1,0 +1,15 @@
+F:\Github_Repos\General_Code_Practice\Csharp\CSharpDay1\bin\Debug\net8.0\CSharpDay1.exe
+F:\Github_Repos\General_Code_Practice\Csharp\CSharpDay1\bin\Debug\net8.0\CSharpDay1.deps.json
+F:\Github_Repos\General_Code_Practice\Csharp\CSharpDay1\bin\Debug\net8.0\CSharpDay1.runtimeconfig.json
+F:\Github_Repos\General_Code_Practice\Csharp\CSharpDay1\bin\Debug\net8.0\CSharpDay1.dll
+F:\Github_Repos\General_Code_Practice\Csharp\CSharpDay1\bin\Debug\net8.0\CSharpDay1.pdb
+F:\Github_Repos\General_Code_Practice\Csharp\CSharpDay1\obj\Debug\net8.0\CSharpDay1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Github_Repos\General_Code_Practice\Csharp\CSharpDay1\obj\Debug\net8.0\CSharpDay1.AssemblyInfoInputs.cache
+F:\Github_Repos\General_Code_Practice\Csharp\CSharpDay1\obj\Debug\net8.0\CSharpDay1.AssemblyInfo.cs
+F:\Github_Repos\General_Code_Practice\Csharp\CSharpDay1\obj\Debug\net8.0\CSharpDay1.csproj.CoreCompileInputs.cache
+F:\Github_Repos\General_Code_Practice\Csharp\CSharpDay1\obj\Debug\net8.0\CSharpDay1.sourcelink.json
+F:\Github_Repos\General_Code_Practice\Csharp\CSharpDay1\obj\Debug\net8.0\CSharpDay1.dll
+F:\Github_Repos\General_Code_Practice\Csharp\CSharpDay1\obj\Debug\net8.0\refint\CSharpDay1.dll
+F:\Github_Repos\General_Code_Practice\Csharp\CSharpDay1\obj\Debug\net8.0\CSharpDay1.pdb
+F:\Github_Repos\General_Code_Practice\Csharp\CSharpDay1\obj\Debug\net8.0\CSharpDay1.genruntimeconfig.cache
+F:\Github_Repos\General_Code_Practice\Csharp\CSharpDay1\obj\Debug\net8.0\ref\CSharpDay1.dll
