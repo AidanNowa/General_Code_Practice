@@ -93,3 +93,31 @@ while True:
         break
     except ValueError:
         print("Invalid input! Input is not a number. Try again...")
+
+
+city = "New York"
+days = 3
+cost = 123.45
+go_back = True
+
+total_cost = days * cost
+print(f"Total cost: {total_cost}")
+cost_per_hour = cost / 10
+print(f"Cost per hour: {cost_per_hour}")
+
+num_books = int(input("How many books did you read last year? "))
+avg_pages = int(input("On average, how many pages where in each book? "))
+
+total_pages = num_books * avg_pages
+print(f"Total pages read last year: {total_pages}")
+
+temp = int(input("What is the temperature: "))
+
+if temp > 85:
+    print("Hot")
+elif temp >= 60:
+    print("Warm")
+elif temp >= 32:
+    print("Cold")
+else:
+    print("Freezing")
